@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "VBA_Challenge"
 Sub VBA_Challenge()
 
 'Define all variables
